@@ -9,3 +9,16 @@ Tested on Photoshop CS6 Portable.
 3. Browse and load the downloaded `jsx` file
 
 Note: use prefix `__` (double underscore) for top-level group names to exclude groups from the composition composing process. E.g. `__ignoreThisGroup`
+
+## Author
+
+👤 **Andrei FE**
+
+* Github: [@andreifed3](https://github.com/andreifed3)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+
